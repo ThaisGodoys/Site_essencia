@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header,
+header h2 {
+    font-family: "Playwrite DK Loopet", cursive;
+}
+
+body {
+    font-family: "Work Sans", sans-serif;
+}
+
+header {
+    padding: 16px o;
+    background-color: #c8108b;
+    color: #8be4fa;
+}
+
+header h1{
+    font-weight: normal;
+}
+
+header nav li {
+    display: inline;
+    margin-left: 16px;
+    font-size: 16px;
+}
+
+header nav li a {
+    color: #8be4fa;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header .container,
+section .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.brands-list img {
+    height: 32px;
+}
+
+.brands-list li {
+    display: inline;
+    margin-right: 8px;
+}
+
+section .container {
+    align-items: flex-start;
+}
+
+section {
+    padding: 24px 0;
+}
+
+section h2 {
+    margin-bottom: 16px;
+}
+
+section {
+    color:#c8108b
+}
+
+section p {
+    margin-bottom: 8pxm;
+}
+
+section store-front {
+    margin-right: 32 px;
+}
