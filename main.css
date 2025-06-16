@@ -19,7 +19,7 @@ body, input, textarea {
 header {
     padding: 16px o;
     background-color: #ea8dcb;
-    color: #d7edf2;
+    color: #182f34;
 }
 
 
@@ -30,7 +30,7 @@ header nav li {
 }
 
 header nav li a {
-    color: #d7edf2;
+    color: #02404e;
     text-decoration: none;
 }
 
@@ -69,7 +69,7 @@ section h2 {
 }
 
 section {
-    color:#ea8dcb
+    color:#2c021d
 }
 
 section p {
@@ -121,14 +121,14 @@ section h3 {
 }
 
 form button {
-    background-color: #ea8dcb;
+    background-color: #3a2734;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #3c3038;
+    background-color: #4f0c3a;
 }
 
 input:focus, textarea:focus {
@@ -136,7 +136,7 @@ input:focus, textarea:focus {
 }
 
 footer{
-    background-color: #ea8dcb;
-    color:#3c3038;
+    background-color: #870a5d;
+    color:#433c41;
     padding: 16px 0;
 }
